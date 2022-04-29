@@ -1,4 +1,4 @@
-# Sound-guide
+# Data Driven Based Sound Filtering
 
 In this work, we use a deep learning-based data driven method to design a system to filter some of the frequency components of the sound propagating in an open space. 
 One clear example of such problems is the patient room in the hospital, in which, minimum acoustic intensity is desired at the room, while speakers at the hospital call doctors or announce any notes.
